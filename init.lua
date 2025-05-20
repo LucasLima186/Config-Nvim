@@ -5,4 +5,6 @@ require('user.lsp')
 require('user.cmp')
 require('user.nvimtree')
 require('user.keymaps')
-
+require('user.autosaveTimer')
+require('user.lualineConfig')
+require('user.theme')
