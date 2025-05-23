@@ -27,4 +27,3 @@ function toggle_nvim_tree_focus()
     end, 100)
   end
 end
-

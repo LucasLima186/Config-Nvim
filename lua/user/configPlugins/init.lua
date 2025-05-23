@@ -1,0 +1,6 @@
+require("user.configPlugins.autosaveTimer")
+require("user.configPlugins.cmp")
+require("user.configPlugins.lsp")
+require("user.configPlugins.lualine")
+require("user.configPlugins.nvimtree")
+require("user.configPlugins.theme")
